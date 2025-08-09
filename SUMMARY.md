@@ -17,6 +17,8 @@
     * [GetPlayersInRobbery](utility-jewelry/exports/getplayersinrobbery.md)
 * [💰 Utility Bank](utility-bank/README.md)
   * [How to create a new bank type](utility-bank/how-to-create-a-new-bank-type.md)
+* [💨 Utility Vape](utility-vape/README.md)
+  * [Installation](utility-vape/installation.md)
 * [Other](other/README.md)
   * [Installation for qb-inventory](other/installation-for-qb-inventory.md)
   * [General FAQ](other/general-faq.md)
