@@ -19,6 +19,7 @@
   * [How to create a new bank type](utility-bank/how-to-create-a-new-bank-type.md)
 * [💨 Utility Vape](utility-vape/README.md)
   * [Installation](utility-vape/installation.md)
+  * [Creating a new liquid](utility-vape/creating-a-new-liquid.md)
 * [Other](other/README.md)
   * [Installation for qb-inventory](other/installation-for-qb-inventory.md)
   * [General FAQ](other/general-faq.md)
