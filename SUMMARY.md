@@ -49,6 +49,8 @@
 * [💨 Utility Vape](utility-vape/README.md)
   * [Installation](utility-vape/installation.md)
   * [Creating a new liquid](utility-vape/creating-a-new-liquid.md)
+* [🔡 Utility Vending](utility-vending/README.md)
+  * [Installation](utility-vending/installation.md)
 * [🔫 Utility Weapons](utility-weapons/README.md)
   * [Installation](utility-weapons/installation.md)
   * [Exports](utility-weapons/exports/README.md)
