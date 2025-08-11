@@ -7,27 +7,23 @@ description: >-
 
 # Installation
 
-## 📦Required Dependencies
+{% stepper %}
+{% step %}
+### 📦Install the required dependencies
 
 * [ ] Install [Utility Lib](https://github.com/utility-library/utility_lib)
 * [ ] Install the items if you plan to use an inventory\
   [#how-to-install-items](../other/general-faq.md#how-to-install-items "mention")
+{% endstep %}
 
-## &#x20;🧱​ Expansion installation
-
-{% embed url="https://youtu.be/lf9Usw5eBbI" fullWidth="false" %}
-
-{% hint style="danger" %}
-Expansion resources **should not** be started as standalone resources.
-{% endhint %}
-
-## 🧩 Inventory Integration
-
-Using `qb-inventory` ?
+{% step %}
+### 🧩 Inventory Integration (qb-inventory)
 
 [installation-for-qb-inventory.md](../other/installation-for-qb-inventory.md "mention")
+{% endstep %}
 
-## 🌍 Maps Compatibility
+{% step %}
+### 🌍 Maps Compatibility
 
 If you're using a **supported map**, do the following:
 
@@ -38,6 +34,22 @@ If you're using a **supported map**, do the following:
     * Props you can't interact with
 
     [#what-should-i-do-if-i-see-duplicate-props-or-props-that-i-cannot-interact-with](faq.md#what-should-i-do-if-i-see-duplicate-props-or-props-that-i-cannot-interact-with "mention")
+
+
+{% endstep %}
+
+{% step %}
+### **🧱 Install an expansion (Optional)**
+
+If you have bought also the pizza expansion follow this video
+
+{% embed url="https://youtu.be/lf9Usw5eBbI" fullWidth="false" %}
+
+{% hint style="danger" %}
+Expansion resources **should not** be started as standalone resources.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
 
 ***
 

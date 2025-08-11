@@ -1,11 +1,15 @@
 # Installation
 
-## 📦Required Dependencies
+{% stepper %}
+{% step %}
+### 📦Required Dependencies
 
-* [ ] Install Utility Lib
+* [ ] Install [Utility Lib](https://github.com/utility-library/utility_lib)
 * [ ] Install the items if you plan to use an inventory\
   [#how-to-install-items](../other/general-faq.md#how-to-install-items "mention")
+{% endstep %}
 
+{% step %}
 ## 🌍 MXC Smoking Compatibility
 
 If you're using a **mxc-smoking**, do the following in the mxc-smoking folder:
@@ -16,6 +20,8 @@ If you're using a **mxc-smoking**, do the following in the mxc-smoking folder:
 * [ ] Set all `desk-workmats` to `false`
 
 <div align="left" data-full-width="false"><figure><img src="../.gitbook/assets/image (8).png" alt="" width="227"><figcaption><p>Final smoking_entityset_mods.lua</p></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
 
 ***
 
