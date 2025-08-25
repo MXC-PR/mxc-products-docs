@@ -27,6 +27,8 @@
     * [GetShuttersStatus](utility-jewelry/exports/getshuttersstatus.md)
     * [IsJewelryBeingRobbed](utility-jewelry/exports/isjewelrybeingrobbed.md)
     * [GetPlayersInRobbery](utility-jewelry/exports/getplayersinrobbery.md)
+* [🔑 Utility Keyhanger](utility-keyhanger/README.md)
+  * [Installation](utility-keyhanger/installation.md)
 * [🍲 Utility Kitchen](utility-kitchen/README.md)
   * [Installation](utility-kitchen/installation.md)
   * [FAQ](utility-kitchen/faq.md)
