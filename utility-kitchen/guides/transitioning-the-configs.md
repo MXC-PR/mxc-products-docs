@@ -1,4 +1,8 @@
-# 🚀 Transitioning the configs
+---
+hidden: true
+---
+
+# Transitioning the configs
 
 In the latest update, we have moved and split the config to make it more sustainable to extend and modify. \
 To avoid losing your valuable modifications, follow this brief guide on transitioning to the new version!
@@ -7,11 +11,11 @@ To avoid losing your valuable modifications, follow this brief guide on transiti
 
 With the latest update we created a new folder (`configs`)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="119"><figcaption><p>New configs folder</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="119"><figcaption><p>New configs folder</p></figcaption></figure>
 
 In this folder you can find:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **expansions**: used for managing configs of expansions (eg. pizza)\
 **config\_functions.lua**: classic config for functions\
@@ -34,6 +38,6 @@ Now from general.lua:
 
 Your final general.lua should be something like this:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">**We have finished!**</mark>
